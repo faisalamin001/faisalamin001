@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://faisal-amin.vercel.app](https://faisal-amin.vercel.app)
 
-- 📝 I tweet about [coding, career and personal development](coding, career and personal development)
+- 📝 I tweet about coding, career and personal development
 
 - 💬 Ask me about **React**
 
@@ -36,6 +36,6 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&locale=en" alt="faisalamin001" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&locale=en" alt="faisalamin001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&" alt="faisalamin001" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&" alt="faisalamin001" /></p>
