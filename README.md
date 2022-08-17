@@ -1,35 +1,30 @@
-<h1 align="center">Hi 👋, I'm Faisal Amin</h1>
-<h3 align="center">A passionate Frontend developer (React)</h3>
+<h1 align="center">
+  🎉 Welcome to Faisal's GitHub Homepage!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
+</h1>
 
-- 🔭 I’m currently working on **Netflix clone website**
+## 🌐 I'm currently working on frontend...
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **more and more projects**
-
-- 👨‍💻 All of my projects are available at [https://faisal-amin.vercel.app](https://faisal-amin.vercel.app)
-
-- 📝 I tweet about coding, career and personal development
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **faysalamin001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/faisalamin001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="faisalamin001" height="30" width="40" /></a>
-<a href="https://dev.to/faisalamin001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faisalamin001" height="30" width="40" /></a>
-<a href="https://twitter.com/faisalamin001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faisalamin001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faisalamin001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisalamin001" height="30" width="40" /></a>
-<a href="https://medium.com/@faisalamin001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faisalamin001" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-lightgray?logo=typescript" alt="" />
+  <img src="https://img.shields.io/badge/-React-gray?logo=react" alt="" />
+  <img src="https://img.shields.io/badge/-Next.js-blue?logo=next.js" alt="" />
+  <img src="https://img.shields.io/badge/-Material%20UI-white?logo=mui" alt="" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="" />
+  <img src="https://img.shields.io/badge/-CSS%20Modules-blue?logo=css3" alt="" />
+  <img src="https://img.shields.io/badge/-Styled%20Components-yellow?logo=styled-components" alt="" />
+  <img src="https://img.shields.io/badge/-Prettier-blue?logo=prettier" alt="" />
+  <img src="https://img.shields.io/badge/-ESLint-indigo?logo=eslint" alt="" />
+</p>
 
-<br/>
+## 📈 Here are some of my stats...
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&locale=en" alt="faisalamin001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&" alt="faisalamin001" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcaidev&theme=github_dark&show_icons=true&count_private=true" style="width:80%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcaidev&layout=compact&hide=html&theme=github_dark&langs_count=8" style="width:80%;" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mrcaidev&theme=react-dark&hide_border=true&line=58A5FE&color=C9D1D9" style="width:100%;"/>
+</div>
