@@ -33,18 +33,11 @@
 
 ##
 
-<img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-Mandal&theme=react-dark&area=true" width="100%"  />
+<img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Faisal&theme=react-dark&area=true" width="100%"  />
 
 ##
 
 <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&theme=react" width="48%" >
 
-##
 
-<a href="https://twitter.com/faisalamin001">
-  <img align="right" alt="Aman Mandal | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-<a href="https://www.linkedin.com/in/faisalamin001/">
-  <img align="right" alt="Faisal | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
