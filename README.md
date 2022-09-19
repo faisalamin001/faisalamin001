@@ -28,3 +28,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&hide=html&theme=github_dark&langs_count=8" style="width:80%;" />
   <img src="https://activity-graph.herokuapp.com/graph?username=faisalamin001&theme=react-dark&hide_border=true&line=58A5FE&color=C9D1D9" style="width:80%;"/>
 </div>
+
+
+
+##
+
+<img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-Mandal&theme=react-dark&area=true" width="100%"  />
+
+##
+
+<img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&theme=react" width="48%" >
+
+##
+
+<a href="https://twitter.com/faisalamin001">
+  <img align="right" alt="Aman Mandal | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/faisalamin001/">
+  <img align="right" alt="Faisal | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
