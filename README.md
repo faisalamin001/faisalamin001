@@ -33,7 +33,7 @@
 
 ##
 
-<img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Faisal&theme=react-dark&area=true" width="100%"  />
+<img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=faisalamin001&theme=react-dark&area=true" width="100%"  />
 
 ##
 
