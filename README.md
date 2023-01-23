@@ -33,9 +33,9 @@
 
 
 ##
-
+<!-- 
 <img alt="Faisal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=faisalamin001&theme=react-dark&area=true" width="100%"  />
-
+ -->
 ##
 
 <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=react" width="48%" align="right" >
