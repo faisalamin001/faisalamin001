@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-Next.js-blue?logo=next.js" alt="" />
   <img src="https://img.shields.io/badge/-Material%20UI-white?logo=mui" alt="" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
+  <img src="https://img.shields.io/badge/-GraphQL-pink?logo=graphql" alt="" />
 </p>
 
 <p align="center">
