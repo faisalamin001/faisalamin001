@@ -24,11 +24,11 @@
 ## 📈 Here are some of my stats...
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faisalamin001&theme=github_dark&show_icons=true&count_private=true" style="width:80%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&hide=html&theme=github_dark&langs_count=8" style="width:80%;" />
   <img src="https://activity-graph.herokuapp.com/graph?username=faisalamin001&theme=react-dark&hide_border=true&line=58A5FE&color=C9D1D9" style="width:80%;"/>
-</div>
+</div> -->
 
 
 
