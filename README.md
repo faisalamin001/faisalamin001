@@ -23,8 +23,6 @@
 
 ## 📈 Here are some of my stats...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalamin001&label=Profile%20views&color=0e75b6&style=flat" alt="faisalamin001" /> </p>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faisalamin001&theme=github_dark&show_icons=true&count_private=true" style="width:80%;" />
