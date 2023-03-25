@@ -1,16 +1,21 @@
 <h1 align="center">
-  🎉 Welcome to Faisal's GitHub Homepage!
+  🎉 Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 </h1>
 
 ## 🌐 I'm currently working on frontend...
+## 🛠 My Stack
+
 
 <p align="center">
+  <img src="https://img.shields.io/badge/--JavaScript-05122A?&logo=javascript" alt="" />
   <img src="https://img.shields.io/badge/-TypeScript-lightgray?logo=typescript" alt="" />
   <img src="https://img.shields.io/badge/-React-gray?logo=react" alt="" />
-  <img src="https://img.shields.io/badge/-Next.js-blue?logo=next.js" alt="" />
-  <img src="https://img.shields.io/badge/-Material%20UI-white?logo=mui" alt="" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js" alt="" />
+  <img src="https://img.shields.io/badge/-redux-%23593d88.svg?logo=redux&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-jest-%23C21325?flat&logo=jest&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?flat&logo=testing-library&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/-GraphQL-pink?logo=graphql" alt="" />
 </p>
 
@@ -18,8 +23,14 @@
   <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="" />
   <img src="https://img.shields.io/badge/-CSS%20Modules-blue?logo=css3" alt="" />
   <img src="https://img.shields.io/badge/-Styled%20Components-yellow?logo=styled-components" alt="" />
+   <img src="https://img.shields.io/badge/-Material%20UI-white?logo=mui" alt="" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
   <img src="https://img.shields.io/badge/-Prettier-blue?logo=prettier" alt="" />
   <img src="https://img.shields.io/badge/-ESLint-indigo?logo=eslint" alt="" />
+    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="" />
+
+  
 </p>
 
 
@@ -46,7 +57,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Zustand-blue?style=flat&logo=zustand&logoColor=blue)&nbsp;
 </p>
 
 
