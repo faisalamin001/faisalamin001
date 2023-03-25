@@ -8,12 +8,12 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-HTML-orange?logo=html" alt="" />
+    <img src="https://img.shields.io/badge/-HTML-orange?logo=html5" alt="" />
     <img src="https://img.shields.io/badge/-CSS%20Modules-blue?logo=css3" alt="" />
   <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="" />
   <img src="https://img.shields.io/badge/-Styled%20Components-yellow?logo=styled-components" alt="" />
-    <img src="https://img.shields.io/badge/-Bootstrap-blue?logo=bootstrap" alt="" />
-   <img src="https://img.shields.io/badge/-Material%20UI-white?logo=mui" alt="" />
+    <img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap" alt="" />
+   <img src="https://img.shields.io/badge/-Material%20UI-blue?logo=mui" alt="" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
   
 </p>
