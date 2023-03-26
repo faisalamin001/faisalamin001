@@ -56,7 +56,8 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&theme=algolia" width="48%" >
 </a>
 </p>
-<!--   <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia" width="48%" align="right" > -->
+<p align="center" margin="auto">
+  <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia" width="50%" align="right" > </p>
 
 <!--   <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia" width="48%" align="right" > -->
 <!-- <img height="180em" width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&langs_count=8&theme=algolia"/> -->
