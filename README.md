@@ -57,9 +57,10 @@
 </a>
 </p>
 <p align="center" margin="auto">
-  <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia" width="50%" align="right" > </p>
+  <img height="180em" width="50%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 <!--   <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia" width="48%" align="right" > -->
 <!-- <img height="180em" width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&langs_count=8&theme=algolia"/> -->
 
-
+<!--  <img  src="https://github-readme-stats.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia" width="50%" align="right" > -->
