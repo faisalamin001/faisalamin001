@@ -4,11 +4,14 @@
 </h1>
 <p align='center'>
   
-- 🔭 I’m currently working on an **AI Project using OpenAI api**
+- 📚 Right now, I'm diving deep into **Node.js**.
+  
+- 🍽️ I'm also working on a **Restaurant web app** using Nextjs.
+  
+- 🤝 I'm always interested in collaborating with other developers on exciting React and NEXT.js projects, so feel free to reach out!
 
-- 👯 I’m looking to collaborate on **different React, NEXT.js projects**
-
-- 📫 How to reach me **faisalamin001@gmail.com**
+- 📫 If you'd like to get in touch, you can reach me at **faisalamin001@gmail.com**
+  
 </p>
 
 ## 🛠 My Stack
