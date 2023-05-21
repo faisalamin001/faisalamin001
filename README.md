@@ -61,12 +61,12 @@
 
 ## ⚙️ Analytics
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/faisalamin001">
   <img  width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&theme=algolia" width="48%" >
 </a>
-</p> -->
+</p>
 <p align="center" margin="auto">
   <img height="180em" width="70%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&langs_count=6&theme=algolia"/>
 </p>
