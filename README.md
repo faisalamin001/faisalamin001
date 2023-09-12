@@ -10,7 +10,7 @@
   
 - 🤝 I'm always interested in collaborating with other developers on exciting React and NEXT.js projects.
 
-- 📫 If you'd like to get in touch, you can reach me at **faisalamin001@gmail.com**
+- 📫 If you'd like to get in touch, you can reach me at **faysalamin001@gmail.com**
   
 </p>
 
