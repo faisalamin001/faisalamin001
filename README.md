@@ -4,11 +4,9 @@
 </h1>
 <p align='center'>
   
-- 📚 Right now, I'm diving deep into **Node.js**.
+- 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on **Nest.js**.
   
-- 🍽️ I'm also working on a **Restaurant web app** using Nextjs.
-  
-- 🤝 I'm always interested in collaborating with other developers on exciting React and NEXT.js projects.
+- 🤝 I'm open to collaboration with fellow developers on exciting projects involving **Next.js, Node.js**, and more.
 
 - 📫 If you'd like to get in touch, you can reach me at **faysalamin001@gmail.com**
   
