@@ -4,7 +4,7 @@
 </h1>
 <p align='center'>
   
-- 📚 Currently, I'm immersed in the world of Full-Stack development, with a focus on **Nest.js**.
+- 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on **Nest.js**.
   
 - 🤝 I'm open to collaboration with fellow developers on exciting projects involving **Next.js, Node.js**, and more.
 
