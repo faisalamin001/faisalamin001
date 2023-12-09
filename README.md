@@ -91,8 +91,8 @@
 <p align="center">
 <a href="https://github.com/faisalamin001">
 <!--   <img  width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisalamin001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&theme=algolia" width="48%" >
-<img  width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&langs_count=6&theme=algolia"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faisalamin001&theme=algolia" width="48%" >
+<img  width="50%" height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalamin001&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 </p>
 <!-- <p align="center" margin="auto"> -->
