@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-NestJS*-E0234E?logo=nestjs&logoColor=white" alt="" />
 
 
 
@@ -74,13 +74,18 @@
 <!--   <img src="https://img.shields.io/badge/-Cypress-%23E33332?flat&logo=cypress&logoColor=white" alt="" /> -->
   <img src="https://img.shields.io/badge/-GraphQL-pink?logo=graphql" alt="" />
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="" />
   
   
 </p>
+
+<p align="center"> 
+<sup>Badges marked with an asterisk ( * ) indicate technologies that are in the learning stage.</sup>
+</p>
+
 
 
 
