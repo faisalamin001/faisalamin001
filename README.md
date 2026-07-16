@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 
-- 💻 Full-Stack Engineer with **4+ years** of experience building scalable web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**.
+- 💻 Full-Stack Engineer with **5+ years** of experience building scalable web applications using **Next.js**, **React**, **TypeScript**, and **Node.js**.
 - 🚀 Currently exploring **Python**, **FastAPI**, and AI-powered applications, with a focus on **LLMs**, workflow automation, and modern developer tools.
 - 🤝 Open to collaborating on impactful products, open-source projects, and innovative ideas.
 - 📫 Email: **faysalamin001@gmail.com**
